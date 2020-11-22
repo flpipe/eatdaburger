@@ -1,0 +1,28 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "description": "buger app express store",
+  "main": "server.js",
+  "scripts": {
+    "test": "no tests yet",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpipe/eatdaburger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "reva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flpipe/eatdaburger/issues"
+  },
+  "homepage": "https://github.com/flpipe/eatdaburger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
